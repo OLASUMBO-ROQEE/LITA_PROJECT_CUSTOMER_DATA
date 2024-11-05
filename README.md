@@ -15,7 +15,7 @@ This Data Analysis project aims to generate insight into the customer performanc
 1.  Data Cleaning
 2.  Analysis
 3.  For Data Visualization
-- SQL
+- SQL For querying data
 - POWER BI
 - Github for Portfolio building
  
@@ -80,7 +80,10 @@ FROM [dbo].[LITA capstone data]
 ### Data Visualization
 
 
+![Screenshot 2024-11-05 121128](https://github.com/user-attachments/assets/1ee9b43a-bd7b-4e7e-8cb7-6f87f3ede338)
 
 
+![Screenshot 2024-11-05 121222](https://github.com/user-attachments/assets/49062c61-fa6b-4743-b156-f5b0f674119b)
 
-   
+   ![Screenshot 2024-11-04 212602](https://github.com/user-attachments/assets/988eff92-4264-4807-ae11-2dfe2a3187ae)
+
